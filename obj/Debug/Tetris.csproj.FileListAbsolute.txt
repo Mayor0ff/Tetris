@@ -1,0 +1,24 @@
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.exe.config
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.exe
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.pdb
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.Form1.resources
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.exe
+Z:\Programms\Work\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.pdb
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\bin\Debug\Tetris.exe.config
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\bin\Debug\Tetris.exe.manifest
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\bin\Debug\Tetris.application
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\bin\Debug\Tetris.exe
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\bin\Debug\Tetris.pdb
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.Form1.resources
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.exe.manifest
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.application
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.exe
+Z:\Programms\Work\Кейс №2 Тетрис\Тетрис\Tetris\obj\Debug\Tetris.pdb
